@@ -1,0 +1,2 @@
+https://askubuntu.com/questions/1534796/jammy-upgrade-python-fail
+https://askubuntu.com/questions/1484396/cannot-activate-bluetooth-on-ubuntu-22-04

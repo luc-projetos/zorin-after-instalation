@@ -1,0 +1,5 @@
+1 - sudo pacman -S open-vm-tools
+2 - sudo systemctl enable vmtoolsd.service
+3 - sudo systemctl start vmtoolsd.service
+4 - Reiniciar ou desligar maquina virtual
+5 - Ir na opção View e selecionar a opção full screen

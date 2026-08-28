@@ -1,1 +1,1 @@
-# zorin-after-instalation
+# zorin-after-installation

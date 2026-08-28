@@ -1,0 +1,19 @@
+[1mdiff --git a/Zorin-17/luciano/01-after-installation-zorin-17.sh b/Zorin-17/luciano/01-after-installation-zorin-17.sh[m
+[1mindex 6886f31..46fa15a 100755[m
+[1m--- a/Zorin-17/luciano/01-after-installation-zorin-17.sh[m
+[1m+++ b/Zorin-17/luciano/01-after-installation-zorin-17.sh[m
+[36m@@ -785,6 +785,14 @@[m [mecho "**************************************************************************[m
+ [m
+ [m
+ [m
+[32m+[m[32mecho -e "\n\n\n************************************************ INSTALANDO  DO  SUPORTE  A  BLUETOOTH ***********************************************"[m
+[32m+[m
+[32m+[m[32msudo snap install bluez[m
+[32m+[m
+[32m+[m[32mecho "***********************************************************************************************************************************************"[m
+[32m+[m
+[32m+[m
+[32m+[m
+ [m
+ echo -e "\n\n\n************************************************** INSTALANDO  APLICATIVOS  APT ******************************************************"[m
+ [m

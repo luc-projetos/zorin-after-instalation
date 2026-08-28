@@ -1,0 +1,6 @@
+https://phoenixnap.com/kb/install-nvidia-drivers-ubuntu
+
+
+apt search nvidia-driver
+
+sudo apt install [driver_name]
