@@ -524,7 +524,7 @@ sudo apt --fix-broken install -y
 
 
 ## Insync
-sudo dpkg -i insync_3.9.4.60020-jammy_amd64.deb
+sudo dpkg -i insync_3.9.11.60043-noble_amd64.deb
 sudo apt --fix-broken install -y
 
 
@@ -538,11 +538,7 @@ sudo dpkg -i jasper-soft-studio-7.0.3.deb
 sudo apt --fix-broken install -y
 
 
-## Microsoft Edge
-##sudo dpkg -i microsoft-edge-stable_130.0.2849.46-1_amd64.deb
-##sudo apt --fix-broken install -y
-
-## Mysql workbench
+## Mongo Compass
 sudo dpkg -i mongodb-compass_1.49.15_amd64.deb
 sudo apt --fix-broken install -y
 

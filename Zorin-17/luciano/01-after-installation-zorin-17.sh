@@ -456,7 +456,7 @@ then
     echo "O arquivo  google-chrome-stable_current_amd64.deb  ja existe"
 else
     echo -e "\n\n\n\n Chrome"
-    wget https://github.com/luc-programs/chrome/releases/download/Chrome/google-chrome-stable_current_amd64.deb
+    wget https://github.com/luc-programa343/Chrome/releases/download/Chrome/google-chrome-stable_current_amd64.deb
 fi
 
 
@@ -494,12 +494,12 @@ fi
 
 
 ## Download Insync
-if [ -e insync_3.9.4.60020-jammy_amd64.deb ];
+if [ -e insync_3.9.11.60043-noble_amd64.deb ];
 then
-    echo "O arquivo  insync_3.9.4.60020-jammy_amd64.deb ja existe"
+    echo "O arquivo insync_3.9.11.60043-noble_amd64.deb ja existe"
 else
     echo -e "\n\n\n\n Insync"
-    wget https://github.com/luc-programs/insync/releases/download/Insync/insync_3.9.4.60020-jammy_amd64.deb
+    wget https://github.com/luc-programa343/Insync/releases/download/Insync/insync_3.9.11.60043-noble_amd64.deb
 fi
 
 
@@ -546,16 +546,6 @@ else
     wget https://github.com/luc-programs/lombok/releases/download/lombok/lombok.jar
 fi
 
-
-
-## Download Microsoft Edge
-if [ -e microsoft-edge-stable_130.0.2849.46-1_amd64.deb ];
-then
-    echo "O arquivo  microsoft-edge-stable_130.0.2849.46-1_amd64.deb ja  existe"
-else
-    echo -e "\n\n\n\n Microsoft Edge"
-    wget https://github.com/luc-programs/edge/releases/download/Edge/microsoft-edge-stable_130.0.2849.46-1_amd64.deb
-fi
 
 
 ## Download Mongo Compass
@@ -643,7 +633,7 @@ then
     echo "O arquivo  VMware-Workstation-Full-17.5.1-23298084.x86_64.bundle   ja existe"
 else
     echo -e "\n\n\n\n VMware"
-    wget https://github.com/luc-programs/wmware/releases/download/Vmware/VMware-Workstation-Full-17.5.1-23298084.x86_64.bundle
+    wget https://github.com/luc-programa343/VmWare-Workstation/releases/download/VmWare-Workstation/VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle
 fi
 
 
